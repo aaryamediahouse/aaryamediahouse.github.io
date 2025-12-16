@@ -17,7 +17,7 @@ ssCountdownDefaultOptions.daysColor     = "#FF073A"; // Neon Yellow
  * */
 
 /*Date Format: YYYY-MM-DD*/
-ssCountdownDefaultOptions.date 		= 	"2025-07-17";	
+ssCountdownDefaultOptions.date 		= 	"2025-12-25";	
 
 /*Time Format: hh:mm:ss*/
 ssCountdownDefaultOptions.time 		= 	"23:59:59";		
@@ -28,4 +28,5 @@ ssCountdownDefaultOptions.time 		= 	"23:59:59";
  * GMT+08:00
  * GMT-08:30
 */
+
 ssCountdownDefaultOptions.timezone 		= 	"GMT+05:45";
